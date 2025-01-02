@@ -1,3 +1,6 @@
+# Pdf
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,6 +131,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+IS/
 .env
 .venv
 env/
